@@ -1,1 +1,2 @@
 # Freedom77
+(API_KEY = "sk-svcacct-61nx7_w6ITYOxDJD6YfKmP-iyXaxvG9Dd4co3eALL6Ntbr81o1pf0JTE3NEx-KxoSIPan66c7sBT3BlbkFJoNlP74tJ4zcHT-utt6LyE0-pF9A9NWR-MFKl_ciB1VRdzFwlq8mg_he9YtKsJMCAfdmr-UUFjkA", PORT = 5000)
